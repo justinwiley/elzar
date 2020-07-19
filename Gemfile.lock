@@ -31,7 +31,7 @@ GEM
     erubis (2.7.0)
     ffi (1.0.11)
     highline (1.6.8)
-    i18n (0.6.0)
+    i18n (0.6.11)
     json (1.5.2)
     knife-solo (0.0.4)
       chef (~> 0.10.0)
